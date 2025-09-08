@@ -1,0 +1,6 @@
+def even(a: int) -> bool:
+"Return true if number paired and false if number unpaired"
+return n % 2 == 0 
+
+if _name_ == '_main_':
+  print('CI/CD works')
