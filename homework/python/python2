@@ -1,0 +1,5 @@
+from src.python1 import even
+def test_even():
+assert even(10) is True
+assert even (11) is False
+
